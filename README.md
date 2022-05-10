@@ -2,7 +2,7 @@
 This bot's encryption algorthm based on Julius Caesar's encryption algorythm, but x100 times more complex.<br>
 Whoever who wants to encrypt your message will not be able to do so unless he has your security password because of algorythm's complexity.
 
-## This is not same with Encrypter-Decrypter_bot_2.0 and works differently. If you haven't tried it, please check out.
+## This is not same with Encrypter-Decrypter_bot_2.0 and works differently. If you haven't tried it, [please look through it](https://github.com/MIForever/Encrypter-Decrypter_bot_1.0).
 
 ### • Requirements
 
